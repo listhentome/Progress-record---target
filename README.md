@@ -7,3 +7,4 @@ Different kinds of task types are marked with different colors.
 Count the average completion progress of all tasks.
 Count the number of tasks for each category so that you can plan the completion time of each task reasonably.
 Very simple but very practical application.
+![image](https://github.com/listhentome/Progress-record---target/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-11-19%20at%2014.57.44.png)
